@@ -1,0 +1,14 @@
+.section{
+    border: 1px solid white;
+    
+    
+}
+.img{
+width: 100%;
+border-radius: 4px;
+}
+.title,
+.address,
+.desc{
+text-align: center;
+}
